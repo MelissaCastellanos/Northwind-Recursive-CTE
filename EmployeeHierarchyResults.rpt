@@ -1,0 +1,16 @@
+﻿EmployeeID  LastName             FirstName  ReportsTo   Level
+----------- -------------------- ---------- ----------- -----------
+2           Fuller               Andrew     NULL        1
+1           Davolio              Nancy      2           2
+3           Leverling            Janet      2           2
+4           Peacock              Margaret   2           2
+5           Buchanan             Steven     2           2
+8           Callahan             Laura      2           2
+6           Suyama               Michael    5           3
+7           King                 Robert     5           3
+9           Dodsworth            Anne       5           3
+
+(9 rows affected)
+
+
+Completion time: 2024-09-22T01:08:51.5049597-07:00
